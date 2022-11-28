@@ -29,6 +29,6 @@ try:
 
     print(json_string)
     print("hello")
-    print("testing if CI pipeline worked")
+    print("testing if CI pipeline workedd")
 except (ConnectionError, Timeout, TooManyRedirects) as e:
     print(e)
