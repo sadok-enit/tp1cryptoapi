@@ -16,7 +16,7 @@ parameters = {
 }
 headers = {
     'Accepts': 'application/json',
-    'X-CMC_PRO_API_KEY': 'cd270f08-9e71-4d40-94e7-e837d76975e3',
+    'X-CMC_PRO_API_KEY': API_KEY ,
 }
 
 session = Session()
